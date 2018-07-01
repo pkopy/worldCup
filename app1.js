@@ -15,8 +15,7 @@
     })
 
     function matches(string){
-        // let array = string.standings.${table}[0];
-        // console.log(array[0])
+        
         console.log(string.standings[table])
     }
 
